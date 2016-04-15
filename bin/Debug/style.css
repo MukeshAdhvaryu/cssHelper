@@ -1,0 +1,12 @@
+div.result{background-color:#808080;
+background:url('wrmult.gif'),-webkit-linear-gradient(-90deg,#74C2E1,#0191C8);
+background:url('wrmult.gif'),-o-linear-gradient(-90deg,#74C2E1,#0191C8);
+background:url('wrmult.gif'),-moz-linear-gradient(-90deg,#74C2E1,#0191C8);
+background:url('wrmult.gif'),linear-gradient(-90deg,#74C2E1,#0191C8);
+
+background-position:1px 1px;
+background-attachment:scroll;
+background-clip:border-box;
+background-origin:content-box;
+background-repeat:no-repeat;
+}
